@@ -12,7 +12,7 @@ $ npm install
 
 ```
 $ npm start
-$ or run with nodemon
+> $ or run with nodemon
 $ npm run dev
 ```
 ```
